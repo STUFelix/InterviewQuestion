@@ -7,3 +7,6 @@ https://blog.csdn.net/iispring/article/details/47180325
 https://juejin.im/entry/59decdf36fb9a0451c39621b  
 https://www.jianshu.com/p/704cac3eb13d  
 https://mp.weixin.qq.com/s/5KjSPvUflbg0pVRIjtLiRA?spm=5176.100239.blogcont102404.14.ARzI6c  
+#4.8 动态增加布局  
+https://www.jianshu.com/p/406fc1452bdc  
+https://www.jianshu.com/p/cdb6833e7fe8  
