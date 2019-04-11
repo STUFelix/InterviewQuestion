@@ -16,5 +16,5 @@ https://www.jianshu.com/p/cdb6833e7fe8
 #4.9 Touch事件分发机制  
 https://github.com/hadyang/interview/blob/master/android/event.md  
 https://www.cnblogs.com/linjzong/p/4191891.html  
-#停更，攻算法数据结构
-#4.11 SharedPreference跨进程使用会怎么样？如何保证跨进程使用安全？
+#停更，攻算法数据结构  
+#4.11 SharedPreference跨进程使用会怎么样？如何保证跨进程使用安全？  
